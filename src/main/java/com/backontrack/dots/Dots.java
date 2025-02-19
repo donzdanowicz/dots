@@ -1,6 +1,6 @@
-package com.backontrack;
+package com.backontrack.dots;
 
-public class Application {
+public class Dots {
     public static void main(String[] args) {
         System.out.println("Let's play DOTS!");
     }
